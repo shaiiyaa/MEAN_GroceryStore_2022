@@ -1,0 +1,6 @@
+{
+    "jwtKey": "OurTokenKey",
+    "database": {
+        "connectionString": "mongodb://localhost:27017/Grocery_Store"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "jwtKey": "OurTokenKey",
+    "database": {
+        "connectionString": "mongodb+srv://shaiiyaa:shaiiyaa2101@cluster0.5z1eg.mongodb.net/Grocery_Store?retryWrites=true&w=majority"
+    }
+}
